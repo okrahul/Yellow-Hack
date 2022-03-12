@@ -16,10 +16,10 @@ https://github.com/YelloMonkey-Labs/YelloHack-1.0
 <br /> <br />
 
 Click for Live 🔴🔴:-<br />
-<a href = " "> Click here </a>
+<a href = "https://github.com/okrahul/Yellow-Hack "> Click here </a>
  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dd10b99d-53b5-4140-9cf7-c57883c203a6/deploy-status)](https://app.netlify.com/sites/yellow-hack-okrahul/deploys)
+
 
 
 
